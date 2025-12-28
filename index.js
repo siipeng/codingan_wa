@@ -25,7 +25,7 @@ const template = (nama) => `
 
 Halo ${nama} 👋
 
-Jadii pembayaran + pendataan untuk makrab di *EXTEND* niih sampee tanggal *30 Desember*, yang artinyaa pembayaran MAKRAB (Termin 1) *sisa 3 hari lagi*! ⏳
+Jadii pembayaran + pendataan untuk makrab di *EXTEND* niih sampee tanggal *30 Desember*, yang artinyaa pembayaran MAKRAB (Termin 1) *sisa 2 hari lagi*! ⏳
 
 🗓 MAKRAB: 21 – 22 Januari 2025
 📍 Villa Anna (https://maps.app.goo.gl/x1JjP8qaVBRwkddU7)
